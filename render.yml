@@ -24,7 +24,7 @@ services:
           type: redis
           property: connectionString
       - key: APP_DOMAIN
-        value: https://chaskiq.onrender.com
+        value: https://smarbot-chasiq.onrender.com/
       - key: CHASKIQ_ADMIN_EMAIL
         value: crojas@iabot.com.co
       - key: CHASKIQ_ADMIN_PASSWORD
